@@ -1,6 +1,11 @@
 ## 复制的别人的，还没改，见谅
 
 
+## 源地址因为年代久远已失效
+
+目前作为大学本科生打算重新写一下个人主页
+
+
 ## 个人主页源码
 
 V3版本目前已经可以使用,https://eas1.cn/165.html
@@ -31,9 +36,10 @@ https://github.com/kaygb/kaygb/tree/master/v2
 ## 更换网易云音乐歌单
 
 找到index.html大概66行的位置，修改data-id的值为你的歌单id
-~~~html
+
+```html
 <div class="aplayer" data-id="20173709" data-server="netease" data-type="playlist" data-fixed="true" data-autoplay="true" data-volume="0.8"></div>
-~~~
+```
 
 ## 如何获取网易云歌单id
 
@@ -43,14 +49,11 @@ https://github.com/kaygb/kaygb/tree/master/v2
 
 ## 版权声明
 
-
-
 模板作者并不是我，我是从以下链接获取到的源码，版权归原作者所有！
-
 
 模板来源：http://www.cssmoban.com/cssthemes/9357.shtml
 
-----------------------------------------------------
+---
 
 免责声明：
 
@@ -60,7 +63,7 @@ https://github.com/kaygb/kaygb/tree/master/v2
 
 注：本站所有资源均来自网络转载，版权归原作者和公司所有，如果有侵犯到您的权益，请第一时间联系邮箱：tousu996@gmail.com 我们将配合处理！
 
-----------------------------------------------------
+---
 
 版权声明：
 
