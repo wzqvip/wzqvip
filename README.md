@@ -1,7 +1,7 @@
 # Tacoin's Mainpage.
 
 * Undergraduate student in ShanghaiTech University. Major in Computer Science (2021 - >).
-* IT/ Embeded Engineer at @ForePhysics
+* IT & Embeded Engineer at @ForePhysics
 * Vice President of ShanghaiTech Drone Association.
 * Founder&President of ShanghaiTech TechRetro club (unofficial student association).
 * Experience in embedded system development.
