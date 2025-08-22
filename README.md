@@ -4,7 +4,7 @@
 - 💻 Former **Embedded/IT Engineer** at ForePhysics, with hands-on experience in **IoT, PCB/firmware design, and low-power systems**.  
 - 🚁 Former **Vice President** of ShanghaiTech Drone Association.  
 - 🕹️ Founder & President of **TechRetro Club** (student-led association for retro tech & hardware hacking).
-- 
+
 📫 Blog: [blog.tacoin.site](https://blog.tacoin.site)  
 
 **The following icons are sorted alphabetically.*
