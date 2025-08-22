@@ -1,10 +1,13 @@
 # Tacoin's Mainpage.
 
-* Undergraduate student in ShanghaiTech University. Major in Computer Science (2021 - >).
-* IT & Embeded Engineer at @ForePhysics
-* Vice President of ShanghaiTech Drone Association.
-* Founder&President of ShanghaiTech TechRetro club (unofficial student association).
-* Experience in embedded system development.
+- 🎓 M.S. student in **Electrical and Computer Engineering** at **The Ohio State University** (B.Eng. in CS, ShanghaiTech University).  
+- 💻 Former **Embedded/IT Engineer** at ForePhysics, with hands-on experience in **IoT, PCB/firmware design, and low-power systems**.  
+- 🚁 Former **Vice President** of ShanghaiTech Drone Association.  
+- 🕹️ Founder & President of **TechRetro Club** (student-led association for retro tech & hardware hacking).  
+- 🔬 Research interests: **Embedded Systems, Edge AI, Neuromorphic Computing, Human-Computer Interaction (HCI)**.  
+- ~🌱 Currently exploring **efficient AI models on edge/IoT devices**.   ~
+
+📫 Blog: [blog.tacoin.site](https://blog.tacoin.site)  
 
 **The following icons are sorted alphabetically.*
 [![My Skills](https://skillicons.dev/icons?i=ae,anaconda,arduino,c,cpp,cmake,debian,discord,docker,git,github,githubactions,gitlab,gmail,js,latex,linux,md,matlab,mint,powershell,ps,pr,py,pytorch,qt,raspberrypi,stackoverflow,twitter,ubuntu,visualstudio,vscode,windows)](https://skillicons.dev)
