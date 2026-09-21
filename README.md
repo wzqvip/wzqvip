@@ -1,6 +1,8 @@
 # Tacoin's Mainpage.
 
-- 🎓 M.S. student in **Electrical and Computer Engineering** at **The Ohio State University** (B.Eng. in CS, ShanghaiTech University).  
+- 🎓 ~~M.S. student in **Electrical and Computer Engineering**~~ at **The Ohio State University**
+- 🎓 Ph.D. student in **Computer Science and Engineering** at **The Ohio State University** (B.Eng. in CS, ShanghaiTech University).
+
 - 💻 Former **Embedded/IT Engineer** at ForePhysics, with hands-on experience in **IoT, PCB/firmware design, and low-power systems**.  
 - 🚁 Former **Vice President** of ShanghaiTech Drone Association.  
 - 🕹️ Founder & President of **TechRetro Club** (student-led association for retro tech & hardware hacking).
